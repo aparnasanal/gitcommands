@@ -5,8 +5,8 @@ git config --global user.email "Email"
 git status
 git init
 git add .
-git commit -m
+git commit -m "message or not"
 git log
-git remote add origin (path/url)
+git remote add origin (path)
 git push -u origin main
 git clone (repo url)
