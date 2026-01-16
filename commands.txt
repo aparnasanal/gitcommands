@@ -5,7 +5,7 @@ git config --global user.email "Email"
 git status
 git init
 git add .
-git commit -m "message or not"
+git commit -m "message or note"
 git log
 git remote add origin (path)
 git push -u origin main
