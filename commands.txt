@@ -1,0 +1,12 @@
+git --version
+git config --list
+git config --global user.name "Name"
+git config --global user.email "Email"
+git status
+git init
+git add .
+git commit -m
+git log
+git remote add origin (path/url)
+git push -u origin main
+git clone (repo url)
